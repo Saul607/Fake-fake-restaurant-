@@ -1,0 +1,38 @@
+
+body {
+  background: rgb(255,63,0);
+  background: linear-gradient(0deg, rgba(255,63,0,1) 0%, rgba(45,144,253,1) 100%);
+  color: white;
+  font-family: sans-serif;
+}
+h1{
+  color: white;
+  font-family: times fantasy;
+  font-size: 1000%;
+}
+
+h2{
+  color: #11437a;
+  font-size: 150px;
+  font-family: serif;
+}
+h3{
+  color : #f48f50;
+  font-size: 100px;
+  font-style: oblique;
+}
+h4{
+  color: #11437a;
+  font-size: 100px;
+  font-style: oblique;
+}
+p{
+
+}
+
+#middleph {
+  color: 2
+}
+#2nd_head {
+  color:
+}
